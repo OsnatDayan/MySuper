@@ -12,4 +12,4 @@ Tools implemented in the project:
 3. JWT
 ### Client:
 1.Angular
-2. Desing-Angular Material
+2.Desing-Angular Material
