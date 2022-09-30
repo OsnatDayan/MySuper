@@ -10,7 +10,7 @@ Tools implemented in the project:
 1.Mysql
 ## Server:
 1. Node.js 
-2.Express
+2. Express
 3. JWT
 ## Client:
 1.Angular
