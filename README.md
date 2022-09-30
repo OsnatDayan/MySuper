@@ -6,9 +6,9 @@ Super online that allows you to buy products and place an order.
 
 Tools implemented in the project:
 
-##Database:
+## Database:
 1.Mysql
-##Server:
+## Server:
 1. Node.js 
 2.Express
 3. JWT
