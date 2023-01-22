@@ -13,5 +13,5 @@ Tools implemented in the project:
 2. Express
 3. JWT
 ## Client:
-1.Angular
-2.Desing-Angular Material
+1. Angular
+2. Desing-Angular Material
